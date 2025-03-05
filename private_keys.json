@@ -1,0 +1,14 @@
+{
+    "web scraper agent": {
+        "identity_key": "42c01e7b3fcb0c6bd0397163658701b91d115d4516d48515a2b266518404def2",
+        "wallet_key": "q7+2K/gEQHoR0pT8Ba3NUu7l95gN+9n0eemAWM0Avgw="
+    },
+    "agent_name": {
+        "identity_key": "a17449e88bff98cfc8de04d902cb70f5c1c66945a06ca122a89a6517019d37fa",
+        "wallet_key": "a9FAXFFfIXWkFmK57F1kPD64xRFe/+JoMliIjlgzDA8="
+    },
+    "local_agent": {
+        "identity_key": "f0541d4abb8dc8eebbe4c210fdbff0ffe55e0facf64586bb1ac2dc2779e0b46e",
+        "wallet_key": "6s+YdlrR0ZXG38PtEnZmo5NEDtaECOwUXrp9lOwYPIs="
+    }
+}
